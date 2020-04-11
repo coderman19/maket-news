@@ -1,0 +1,58 @@
+
+
+.nav {
+    margin-top: 10px;
+}
+
+.nav-item {
+    font-size: 18px;
+}
+
+.group_btn {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.badge {
+    width: 80px;
+    height: 24px;
+    font-size: 14px;
+    color: rgb(229, 236, 229);
+    padding-top: 5px;
+    background-color: #b8bbbe;
+}
+
+.head__blocks {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.945);
+}
+
+/* .blocks__left {
+    
+} */
+
+.blocks__left-logo {
+    display: block;
+    margin-right: 5px;
+}
+
+.blocks__left-text {
+    font-size: 80px;
+    padding: 5px;
+    color: teal;
+}
+
+.blocks__right {
+    justify-content: start;
+}
+/* .currency {
+}
+.dollar {
+}
+.euro {
+}
+.rub {
+}
+.weather {
+} */

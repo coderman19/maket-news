@@ -1,0 +1,34 @@
+body {
+    min-width: 320px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: darkslategray;
+}
+
+a:hover {
+    color: rgba(83, 105, 233, 0.384);
+}
+
+.card-body {
+    text-align: left;
+}
+
+/* .card-title {
+
+}
+
+.card-text {
+
+}
+
+.text-muted {
+
+} */
